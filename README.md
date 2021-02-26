@@ -9,3 +9,4 @@ IEEE Transactions on Circuits and Systems for Video Technology
 
 ### Experimental results with state-of-the-arts methods
 
+![fig6](https://user-images.githubusercontent.com/60129726/109298785-75ef7200-7877-11eb-9cb8-c5f90e89d077.png)
